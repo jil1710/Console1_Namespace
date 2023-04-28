@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5m7WW5Ctdj6Cl27CuZk6g6+xqcG8gBaVypPmlHokNdD5A8RERZSjjNb8areMDgWSRe+rsOKPvlkX9asVSPnQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jil\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jil\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jil\\.nuget\\packages\\jil.calc\\1.0.0\\jil.calc.1.0.0.nupkg.sha512",
+    "C:\\Users\\jil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
